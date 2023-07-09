@@ -67,7 +67,10 @@ body {
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
-
+img{
+  height: 300px;
+  width:300px;
+}
 hr {
   box-sizing: content-box;
   height: 0;
